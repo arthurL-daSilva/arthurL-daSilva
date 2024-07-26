@@ -3,7 +3,7 @@
 <h1 align="center">Olá 👋, eu sou o Arthur</h1>
 <h3 align="center">Estou sempre pensando em idéias para projetos para a web, em HTML, CSS e JavaScript</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jester2146&label=Profile%20views&color=008efa&style=flat" alt="jester2146" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
