@@ -2,7 +2,7 @@
 
 ### Olá 👋, eu sou o Arthur
 
-*Apaixonado por games e técnologia, ficando cada vez mais animado por resolver bugs dos meus códigos!!*
+*Apaixonado por games e tecnologia, ficando cada vez mais animado com meu aprendizado de cada dia!!*
 <br/>
 
 ### Minha redes:
